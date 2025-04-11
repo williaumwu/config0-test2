@@ -1,0 +1,12 @@
+assets:
+   env_vars:
+        folder: env_vars
+   shelloutconfigs:
+        folder: scripts
+   execgroups:
+      - execgroup_name: natgw_vpc
+        execgroup_app_name: terraform
+        execgroup_src_folder: terraform
+   stacks:
+      - stack_name: simple_vpc
+        stack_folder: config0/stacks
