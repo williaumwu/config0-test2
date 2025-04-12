@@ -4,9 +4,9 @@ assets:
    shellouts:
         folder: scripts
    execgroups:
-      - execgroup_name: natgw_vpc
-        execgroup_app_name: terraform
-        execgroup_src_folder: terraform
+      - name: natgw_vpc
+        app_name: terraform
+        folder: terraform
    stacks:
-      - stack_name: simple_vpc
-        stack_folder: config0/stacks
+      - name: simple_vpc
+        folder: config0/stacks
