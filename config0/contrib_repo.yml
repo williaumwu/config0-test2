@@ -1,7 +1,7 @@
 assets:
    env_vars:
         folder: env_vars
-   shelloutconfigs:
+   shellouts:
         folder: scripts
    execgroups:
       - execgroup_name: natgw_vpc
