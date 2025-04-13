@@ -11,5 +11,5 @@ assets:
          - filename: 30-exec_tf.py
            content: ZGVmIGRlZmF1bHQoKToKICAgIHJldHVybiB7CiAgICAgICAgJ21ldGhvZCc6ICdzaGVsbG91dGNvbmZpZycsCiAgICAgICAgJ21ldGFkYXRhJzogewogICAgICAgICAgICAnZW52X3ZhcnMnOiBbXSwKICAgICAgICAgICAgJ3NoZWxsb3V0Y29uZmlncyc6IFsnd2lsbGlhdW13dTo6OmNvbmZpZzAtdGVzdDE6OnJlc291cmNlX3dyYXBwZXInXQogICAgICAgIH0KICAgIH0KCgo=
    stacks:
-      - name: simple_vpc
-        folder: config0/stacks
+      - name: natgw
+        folder: stacks
