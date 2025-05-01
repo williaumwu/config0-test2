@@ -1,0 +1,18 @@
+desc: Creates an AWS Virtual Private Cloud (VPC)
+release: 0.0.1
+author: Wiliaum Wu <wiliaumwu@config0.com>
+license: GPL-3.0
+categories: 
+   - aws
+   - cloud
+   - public_cloud
+tags:
+   - vpc
+   - private_networking
+   - networking
+   - config0-core
+   - config0_saas
+   - sandbox
+   - config0
+   - aws
+   - infrastructure
