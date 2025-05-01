@@ -68,6 +68,7 @@ def run(stackargs):
                        resource_name=stack.vpc_name,
                        resource_type="vpc")
 
+    # values to include to root level of the config0 db to query
     tf.include(values={
         "aws_default_region": stack.aws_default_region,
         "name": stack.vpc_name,

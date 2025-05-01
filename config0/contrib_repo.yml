@@ -6,4 +6,3 @@ assets:
    stacks:
       - name: vpc
         folder: stacks
-
